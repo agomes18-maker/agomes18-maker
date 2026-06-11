@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Eu sou estudante🙇‍♀️
+## Eu gosto de ver animes e filmes de terror😶‍🌫️
+## Gosto de cozinhar🍰
+## Sou muito vaidosa😊
+## Amo sair de casa😌
 <!--
 **agomes18-maker/agomes18-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
