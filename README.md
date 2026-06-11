@@ -3,8 +3,11 @@
 ## Gosto de cozinhar🍰
 ## Sou muito vaidosa😊
 ## Amo sair de casa😌
-<!--
+
 ![](https://media1.tenor.com/m/qdfYgloRAC8AAAAC/katherine-peirce.gif)
+
+<--
+
 **agomes18-maker/agomes18-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
